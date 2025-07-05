@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Mohammad Ali</h1>
+<h1 align="center">👋 Hey there, I'm Shuvo Nath</h1>
 <h3 align="center">🇧🇩 Python Enthusiast | Logic Builder | Future Innovator</h3>
 🌟 Hello! I'm a passionate Python learner from Bangladesh, working daily to sharpen my skills and build real-world solutions.
 🚀 Right now, I'm developing:
