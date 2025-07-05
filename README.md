@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Shuvo Nath</h1>
+<h1 align="center">Hey there, I'm👋 Shuvo Nath</h1>
 <h3 align="center">Python Developer from Bangladesh</h3>
 
 Hello! I'm Shuvo, a passionate Python learner from Bangladesh. I practice coding regularly to build useful and simple tools that solve real-life problems.
@@ -19,7 +19,7 @@ Hello! I'm Shuvo, a passionate Python learner from Bangladesh. I practice coding
 
 ---
 
-### Contact Me
+### Contact➡️ Me
 - Email: **shuvonath442@gmail.com**
 - WhatsApp: [Click to Chat](https://wa.me/8801618451616)
 
